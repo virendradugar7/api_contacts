@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.slim.min.map" Url="Scripts/jquery-3.5.0.slim.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.slim.min.js" Url="Scripts/jquery-3.5.0.slim.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.slim.js" Url="Scripts/jquery-3.5.0.slim.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.min.map" Url="Scripts/jquery-3.5.0.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.min.js" Url="Scripts/jquery-3.5.0.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.5.0.js" Url="Scripts/jquery-3.5.0.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\jquery\jquery.d.ts" Url="Scripts/typings/jquery/jquery.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\jqueryui\jqueryui.d.ts" Url="Scripts/typings/jqueryui/jqueryui.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\microsoft-ajax\microsoft.ajax.d.ts" Url="Scripts/typings/microsoft-ajax/microsoft.ajax.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\sharepoint\SharePoint.d.ts" Url="Scripts/typings/sharepoint/SharePoint.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\element.tsx" Url="Scripts/element.tsx" ReplaceContent="TRUE" />
+    <File Path="Scripts\app.ts" Url="Scripts/app.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\element.js" Url="Scripts/element.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\element.js.map" Url="Scripts/element.js.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
