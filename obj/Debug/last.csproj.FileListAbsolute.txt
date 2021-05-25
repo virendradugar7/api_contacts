@@ -1,0 +1,5 @@
+D:\sharepoint addins\last\bin\Debug\last.pdb
+D:\sharepoint addins\last\obj\Debug\last.csprojAssemblyReference.cache
+D:\sharepoint addins\last\obj\Debug\last.csproj.CoreCompileInputs.cache
+D:\sharepoint addins\last\obj\Debug\last.dll
+D:\sharepoint addins\last\obj\Debug\last.pdb
